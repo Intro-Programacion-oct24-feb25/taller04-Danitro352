@@ -40,7 +40,7 @@ public class Problema03 {
         System.out.printf("Nombres completos:%s\n\tDireccion:%s\nCosto por "
                 + "minuto:"
                 + "%.2f\n\tNumero de minutos consumidos:%s\n\t\tValor a cancelar:"
-                + "%s/b",
+                + "%s\n",
                 nombreCompleto,
                 direccion,
                 costoMinuto,
